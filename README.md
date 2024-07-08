@@ -10,7 +10,7 @@
 
 </div>
 
-Vervada's enhanced plants brings 3D models to plants for a more immersive and realistic experience. Every plant gets a custom models (except kelp) and some have variants and specials features.
+Vervada's enhanced plants brings 3D models to plants for a more immersive and realistic experience. Every[^1] plant gets a custom models and some have variants and specials features.
 
 Download it on Modrinth [![Latest][img-latest]][url-latest]
 
@@ -21,6 +21,7 @@ Download it on Modrinth [![Latest][img-latest]][url-latest]
 - 3D vegetables and crops
   - Bushy leaves
   - 3D crops
+- and well, 3D
 
 ### Specials features
 
@@ -43,10 +44,12 @@ This work is licensed under a Attribution-ShareAlike 4.0 International  License.
 
 [img-discord]: <https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white>
 [img-github]: <https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
-[img-modrinth]: <https://img.shields.io/modrinth/dt/id?style=for-the-badge>
-[img-latest]: <https://img.shields.io/modrinth/v/id?style=for-the-badge&logo=Modrinth>
+[img-modrinth]: <https://img.shields.io/modrinth/dt/ghc0v6DT?style=for-the-badge>
+[img-latest]: <https://img.shields.io/modrinth/v/ghc0v6DT?style=for-the-badge&logo=Modrinth>
 
 [url-github]: <https://github.com/Valdr687/vervada>
 [url-discord]: <https://discord.com/invite/rKgAg8X>
 [url-modrinth]: <https://modrinth.com/resourcepack/3d-plants>
 [url-latest]: <https://modrinth.com/resourcepack/3d-plants/versions>
+
+[^1]: Kelp, wheat and twisted vine don't have one as I would have to change to much the actual texture.

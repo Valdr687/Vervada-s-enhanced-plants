@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./pack.png" alt="Pack logo" width="30%">
+<img src="https://github.com/Valdr687/Vervada-s-enhanced-plants/blob/main/pack.png?raw=true" alt="Pack logo" width="30%">
 
 # Vervada's enhanced plants
 

@@ -12,6 +12,8 @@
 
 Vervada's enhanced plants brings 3D models to plants for a more immersive and realistic experience. Every[^1] plant gets a custom models and some have variants and specials features.
 
+![Potted](https://camo.githubusercontent.com/ec1344c0828bd2ea77fe5b53dab8e3288d17477d6873aa4bc2c42c6da3ce398a/68747470733a2f2f63646e2e6d6f6472696e74682e636f6d2f646174612f34446731444579312f696d616765732f646163353765303635656631663863396562383861326430623365313136656163613532376134372e706e67)
+
 Download it on Modrinth [![Latest][img-latest]][url-latest]
 
 ## Noteworthy features
@@ -32,7 +34,8 @@ Use Fabulously Optimized to access those feature, get it here : [download.fo](do
 
 ### Gallery
 
-![Potted](https://camo.githubusercontent.com/ec1344c0828bd2ea77fe5b53dab8e3288d17477d6873aa4bc2c42c6da3ce398a/68747470733a2f2f63646e2e6d6f6472696e74682e636f6d2f646174612f34446731444579312f696d616765732f646163353765303635656631663863396562383861326430623365313136656163613532376134372e706e67)
+![Crops](https://cdn.modrinth.com/data/ghc0v6DT/images/d86fbdb43cd41e0b2d6c525400d1096311b852f1.png)
+![Corals](https://cdn.modrinth.com/data/ghc0v6DT/images/35b8e38bb60308a30277e06fc132248a1656870d.png)
 
 More images on [Modrinth][url-modrinth].
 

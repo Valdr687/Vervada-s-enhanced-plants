@@ -12,8 +12,7 @@
 
 Vervada's enhanced plants brings 3D models to plants for a more immersive and realistic experience. Every[^1] plant gets a custom models and some have variants and specials features.
 
-![Potted](https://camo.githubusercontent.com/ec1344c0828bd2ea77fe5b53dab8e3288d17477d6873aa4bc2c42c6da3ce398a/68747470733a2f2f63646e2e6d6f6472696e74682e636f6d2f646174612f34446731444579312f696d616765732f646163353765303635656631663863396562383861326430623365313136656163613532376134372e706e67)
-
+![Potted](https://cdn.modrinth.com/data/ghc0v6DT/images/bab58cc8813869fcc71d762ed68e0b3320b5b0f4.png)
 Download it on Modrinth [![Latest][img-latest]][url-latest]
 
 ## Noteworthy features

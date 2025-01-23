@@ -52,6 +52,6 @@ This work is licensed under a Attribution-ShareAlike 4.0 International  License.
 [url-github]: <https://github.com/Valdr687/vervada>
 [url-discord]: <https://discord.com/invite/rKgAg8X>
 [url-modrinth]: <https://modrinth.com/resourcepack/3d-plants>
-[url-latest]: <https://modrinth.com/resourcepack/3d-plants/version/1.0.2>
+[url-latest]: <https://modrinth.com/resourcepack/3d-plants/version/1.0.3>
 
 [^1]: Kelp, wheat and twisted vine don't have one as I would have to change to much the actual texture.

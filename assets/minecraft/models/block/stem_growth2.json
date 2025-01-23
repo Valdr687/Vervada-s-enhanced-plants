@@ -6,8 +6,8 @@
 	},
 	"elements": [
 		{
-			"from": [7, 1, 6],
-			"to": [9, 3, 8],
+			"from": [7.025, 1, 6.025],
+			"to": [9.025, 3, 8.025],
 			"faces": {
 				"north": {"uv": [6, 2, 8, 4], "texture": "#stem", "tintindex": 0},
 				"east": {"uv": [6, 2, 8, 4], "texture": "#stem", "tintindex": 0},
@@ -18,8 +18,8 @@
 			}
 		},
 		{
-			"from": [7, -1, 7],
-			"to": [9, 0, 9],
+			"from": [7.025, -1, 7.025],
+			"to": [9.025, 0, 9.025],
 			"faces": {
 				"north": {"uv": [7, 9, 9, 10], "texture": "#stem", "tintindex": 0},
 				"east": {"uv": [7, 9, 9, 10], "texture": "#stem", "tintindex": 0},
@@ -30,8 +30,8 @@
 			}
 		},
 		{
-			"from": [7, 3, 6],
-			"to": [9, 4, 7],
+			"from": [7.025, 3, 6.025],
+			"to": [9.025, 4, 7.025],
 			"faces": {
 				"north": {"uv": [7, 6, 9, 7], "texture": "#stem", "tintindex": 0},
 				"east": {"uv": [7, 6, 8, 7], "texture": "#stem", "tintindex": 0},
@@ -41,8 +41,8 @@
 			}
 		},
 		{
-			"from": [7, 0, 7],
-			"to": [9, 1, 8],
+			"from": [7.025, 0, 7.025],
+			"to": [9.025, 1, 8.025],
 			"faces": {
 				"north": {"uv": [7, 8, 9, 9], "texture": "#stem", "tintindex": 0},
 				"east": {"uv": [7, 8, 8, 9], "texture": "#stem", "tintindex": 0},
